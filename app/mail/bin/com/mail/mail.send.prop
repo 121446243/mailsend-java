@@ -1,0 +1,26 @@
+### 发送者邮箱
+senderUserAccount=13155150136@163.com
+### 发件人昵称
+senderUserAlias=陈鸿飞
+### 发送者邮箱的密码
+senderPassword=chen123q
+### 使用的邮箱官方网站
+mail_smtp_host=smtp.163.com
+### mail 其他参数
+mail_properties=mail.transport.protocol:smtp;mail.smtp.port:465;mail.smtp.ssl.enable:true;mail.smtp.auth:true
+### 收件人，多个以 ","分隔， 如：121446243@qq.com,hecl@yusys.com.cn
+toUser=chenhf@yusys.com.cn
+### 抄送人，多个以 ","分隔， 如：121446243@qq.com,hecl@yusys.com.cn
+ccUser=hecl@yusys.com.cn,308643145@qq.com
+### 密送人，多个以 ","分隔， 如：121446243@qq.com,hecl@yusys.com.cn
+bccUser=121446243@qq.com
+### 编码
+encoding=UTF-8
+### 邮件主题
+subject=
+### 邮件正文类型
+contentType=text/html;charset=UTF-8;
+### 邮件正文内容
+content=
+### 邮件附件路径列表，多个文件以 “;”分隔
+files=E:\\1.log;E:\\2.log;
